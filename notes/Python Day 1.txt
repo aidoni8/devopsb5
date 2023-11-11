@@ -1,0 +1,22 @@
+
+KEYBOARD SHORTCUTS
+For all short cuts below make command to ctrl for windows
+Copy
+MAC -> Command + C
+WINDOWS -> CTRL + C
+
+Paste
+MAC -> Command + V
+
+Select All -> Command + All
+
+Cut -> Command + X
+
+Revert Back -> Command + Z 
+
+New -> Command + N 
+
+MAC -> Screen shoot short cut is
+Command + shift + 4
+
+

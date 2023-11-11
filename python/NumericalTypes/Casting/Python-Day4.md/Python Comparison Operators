@@ -1,0 +1,6 @@
+b = bool(-2)
+print (b) # True
+b1 = bool(0)
+print(b1) = False
+
+##### Every number except 0 will result in True.
